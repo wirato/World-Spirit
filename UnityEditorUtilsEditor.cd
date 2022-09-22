@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ArrayElementTitleDrawer" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAhDAIAAAAAAAAAAAAAEAAAAAACACAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\ArrayElementTitlePropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseCustomCategorizedEditor" Collapsed="true">
+    <Position X="7.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAAAAAAAAAAIAAAAQYAAAAAAAAAgAABAAAACAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\BaseCustomCategorizedEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseCustomEditor" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAgAAAAAAAAEABCAIAEBAAAACAAAAAAAAAjAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\BaseCustomEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseShowConditionalPropertyDrawer&lt;T&gt;" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAABAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\BaseShowConditionalPropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolShowConditionalPropertyDrawer" Collapsed="true">
+    <Position X="12.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\BoolShowConditionalPropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EndNameEdit" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\CreateScriptableObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreateScriptableObject" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAEAAAAAAAAAAAAAAAAAAEAAAACAAABAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\CreateScriptableObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InspectorButtonPropertyDrawer" Collapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\InspectorButtonPropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntShowConditionalPropertyDrawer" Collapsed="true">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\IntShowConditionalPropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PreviewSpriteDrawer" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAABCAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\PreviewSpriteDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReadOnlyFieldPropertyDrawer" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\ReadOnlyFieldPropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringShowConditionalPropertyDrawer" Collapsed="true">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\StringShowConditionalPropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityHelpBoxPropertyDrawer" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\UnityHelpBoxPropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityLayerPropertyDrawer" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\UnityLayerPropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityScenePropertyDrawer" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\UnityScenePropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityTagPropertyDrawer" Collapsed="true">
+    <Position X="18.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\UnityTagPropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEditorUtils.FindMissingScriptsRecursively" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIIAAEAAAAQAAAAAAAAAABDAAABACAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UnityEditorUtils\Editor\FindMissingScriptsRecursively.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

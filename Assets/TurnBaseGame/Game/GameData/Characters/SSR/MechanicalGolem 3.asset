@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd4d453785d383b4c91014d5e9089fca, type: 3}
+  m_Name: MechanicalGolem 3
+  m_EditorClassIdentifier: 
+  id: 
+  title: MechanicalGolem
+  titles: []
+  description: 
+  descriptions: []
+  tag: 
+  category: 
+  icon: {fileID: 21300000, guid: 263e06e1f96af2c438b0fa02e60de05b, type: 3}
+  icon2: {fileID: 0}
+  icon3: {fileID: 0}
+  itemTier: {fileID: 11400000, guid: e847c98e1bd635c4c9eb842513af0e48, type: 2}
+  maxStack: 1
+  useFixSellPrice: 0
+  fixSellPrice: 0
+  useFixRewardExp: 0
+  fixRewardExp: 0
+  useFixLevelUpPrice: 0
+  fixLevelUpPrice: 0
+  attributes:
+    hp:
+      minValue: 1364
+      maxValue: 27183
+      growth: 1.5
+    pAtk:
+      minValue: 262
+      maxValue: 5461
+      growth: 1.5
+    pDef:
+      minValue: 198
+      maxValue: 1266
+      growth: 1.5
+    mAtk:
+      minValue: 157
+      maxValue: 3276
+      growth: 1.5
+    mDef:
+      minValue: 118
+      maxValue: 759
+      growth: 1.5
+    spd:
+      minValue: 27
+      maxValue: 27
+      growth: 1.5
+    eva:
+      minValue: 204
+      maxValue: 4077
+      growth: 1.5
+    acc:
+      minValue: 191
+      maxValue: 3805
+      growth: 1.5
+    critChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    critDamageRate:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    blockChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    blockDamageRate:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    resistanceChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    bloodStealRateByPAtk:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    bloodStealRateByMAtk:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+  randomAttributes:
+    minType: 0
+    maxType: 0
+    minHp: 0
+    maxHp: 0
+    minPAtk: 0
+    maxPAtk: 0
+    minPDef: 0
+    maxPDef: 0
+    minMAtk: 0
+    maxMAtk: 0
+    minMDef: 0
+    maxMDef: 0
+    minSpd: 0
+    maxSpd: 0
+    minEva: 0
+    maxEva: 0
+    minAcc: 0
+    maxAcc: 0
+    minCritChance: 0
+    maxCritChance: 0
+    minCritDamageRate: 0
+    maxCritDamageRate: 0
+    minBlockChance: 0
+    maxBlockChance: 0
+    minBlockDamageRate: 0
+    maxBlockDamageRate: 0
+    minResistanceChance: 0
+    maxResistanceChance: 0
+    minBloodStealRateByPAtk: 0
+    maxBloodStealRateByPAtk: 0
+    minBloodStealRateByMAtk: 0
+    maxBloodStealRateByMAtk: 0
+  hpRateToSetMax: 1
+  pAtkRateToSetMax: 1
+  pDefRateToSetMax: 1
+  mAtkRateToSetMax: 1
+  mDefRateToSetMax: 1
+  spdRateToSetMax: 1
+  evaRateToSetMax: 1
+  accRateToSetMax: 1
+  createEvolveItems: []
+  elemental: {fileID: 0}
+  attackAnimations:
+  - {fileID: 11400000, guid: f390489b102540a47a48f9bbdc00afb6, type: 2}
+  skills:
+  - {fileID: 11400000, guid: 414f15868bbcd1445baf1e7e992feca5, type: 2}
+  - {fileID: 11400000, guid: e6c66b108a16dcc43b9cd4262c16c624, type: 2}
+  model: {fileID: 8719878081599065878, guid: 319d9a1f26c229d4cbca61cc7ff9272c, type: 3}
+  evolveInfo:
+    requiredMaterials:
+    - item: {fileID: 11400000, guid: 322e6b0cb5e77b341a2e3ccaa9909b1c, type: 2}
+      amount: 1
+    evolveItem: {fileID: 0}

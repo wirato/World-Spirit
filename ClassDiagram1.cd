@@ -1,0 +1,2366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimItemEvolve" Collapsed="true">
+    <Position X="146.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAgABICAAEAAgACABACAAAAIAAAhAAAAAAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Animation\AnimItemEvolve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimItemLevelUp" Collapsed="true">
+    <Position X="148.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAgAhMSAAEAAwgTABBCABAEAAAElAAAAAAAEBE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Animation\AnimItemLevelUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimItemRewarding" Collapsed="true">
+    <Position X="150" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAACAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Animation\AnimItemRewarding.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimItemsRewarding" Collapsed="true">
+    <Position X="151.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAgAAAAAAAAACAAAACEAAAgAAAAAAAgAAgAgAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Animation\AnimItemsRewarding.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadSceneEvent" Collapsed="true">
+    <Position X="146.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Events\LoadSceneEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerEvent" Collapsed="true">
+    <Position X="164" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Events\PlayerDataEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerAuthEvent" Collapsed="true">
+    <Position X="160.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Events\PlayerDataEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerCurrencyEvent" Collapsed="true">
+    <Position X="162.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Events\PlayerDataEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerFormationEvent" Collapsed="true">
+    <Position X="165.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Events\PlayerDataEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerItemEvent" Collapsed="true">
+    <Position X="144.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Events\PlayerDataEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStaminaEvent" Collapsed="true">
+    <Position X="148.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Events\PlayerDataEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameInstance" Collapsed="true">
+    <Position X="155.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgVBsOm2WFQ9yBVaM5fkIDAg2EpYGBkhMQQjMaiXYHM=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Game\GameInstance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Achievement" Collapsed="true">
+    <Position X="60.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAIAABAAAIIACAAAAAEAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Achievement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimationData" Collapsed="true">
+    <Position X="56.25" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEIAAAAAAAAAAAAAAAAAAAAABAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Animation\AnimationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimationDataExtension" Collapsed="true">
+    <Position X="144.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Animation\AnimationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseAttackAnimationData" Collapsed="true">
+    <Position X="57.25" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Animation\BaseAttackAnimationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseAttackAnimationDataExtension" Collapsed="true">
+    <Position X="153.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Animation\BaseAttackAnimationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseSkillCastAnimationData" Collapsed="true">
+    <Position X="55" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Animation\BaseSkillCastAnimationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseSkillCastAnimationDataExtension" Collapsed="true">
+    <Position X="148.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Animation\BaseSkillCastAnimationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArenaRank" Collapsed="true">
+    <Position X="46.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAIAAAAgAIIABAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\ArenaRank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseClanBossStage" Collapsed="true">
+    <Position X="64.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\BaseClanBossStage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseEnvironmentData" Collapsed="true">
+    <Position X="162.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\BaseEnvironmentData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseGameData" Collapsed="true">
+    <Position X="60.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAGAAQAAgAEAAIAEgAAAAIAAAAAAAAQAIAAEAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\BaseGameData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BaseMission" Collapsed="true">
+    <Position X="64.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAIAAEAAAAAYAEIAAAAQAAAgAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\BaseMission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseRaidBossStage" Collapsed="true">
+    <Position X="67" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\BaseRaidBossStage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseSkillBuff" Collapsed="true">
+    <Position X="146.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEACAABAIAAAAAhAAEAAAAABABGAgAoQAAEAQAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\BaseSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseSkill" Collapsed="true">
+    <Position X="76" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAABAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\BaseSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseStage" Collapsed="true">
+    <Position X="62.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAEAAAoAAAAAFEAAAFACAAEAAEQAAQIIAGAEAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\BaseStage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterEffectData" Collapsed="true">
+    <Position X="160.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAABABAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\CharacterEffectData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Elemental" Collapsed="true">
+    <Position X="51.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Elemental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FakePlayer" Collapsed="true">
+    <Position X="148.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCBAAAIAAAAAAAAAAABADAAEAAAAAAAAAAEAAAIA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\FakePlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Formation" Collapsed="true">
+    <Position X="150" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAoQAAAAAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Formation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameDatabase" Collapsed="true">
+    <Position X="151.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oIEjASEAGzUADCAwAJmQAAAd0FAAGrSYLgkIRAAACAU=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\GameDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IapPackage" Collapsed="true">
+    <Position X="58" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABABQAAAAAAAJAAAAAAAIAAAAAAIIABAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\IapPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InGamePackage" Collapsed="true">
+    <Position X="69.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAABAQAAAAAAAAAAAAAAIAAAAAAIIABAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\InGamePackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelExpExtention" Collapsed="true">
+    <Position X="144.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAggAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Interface\ILevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterItem" Collapsed="true">
+    <Position X="71.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABAAAAAAAAAAAAAAAAAAAIAAAACAQAAIAAAIAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\CharacterItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterItemAmount" Collapsed="true">
+    <Position X="43.5" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\CharacterItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterItemDrop" Collapsed="true">
+    <Position X="48" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\CharacterItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterItemEvolve">
+    <Position X="43" Y="31.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\CharacterItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentItem" Collapsed="true">
+    <Position X="73.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABAAAAAAABAAAAAABAAAAIAAAACAIAAABAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\EquipmentItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentItemAmount" Collapsed="true">
+    <Position X="45.75" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\EquipmentItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentItemDrop" Collapsed="true">
+    <Position X="50.25" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\EquipmentItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentItemEvolve">
+    <Position X="45.25" Y="31.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\EquipmentItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseItemAmount&lt;T&gt;" Collapsed="true">
+    <Position X="49" Y="22" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAQAAAAAAAAAgAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseItemDrop&lt;T&gt;" Collapsed="true">
+    <Position X="50.25" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemAmount" Collapsed="true">
+    <Position X="54.75" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemDrop" Collapsed="true">
+    <Position X="52.5" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenericItemEvolve" Collapsed="true">
+    <Position X="160.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAACAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecificItemEvolve">
+    <Position X="44.25" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecificItemEvolve&lt;T&gt;">
+    <Position X="44.25" Y="28.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAACAAAAAAAAAAAAEAAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreateEvolveItemData" Collapsed="true">
+    <Position X="146.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACQAAAAAAAIAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseItem" Collapsed="true">
+    <Position X="72.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAACAAAAAgAAAAAABAAAAIQAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseActorItem" Collapsed="true">
+    <Position X="72.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAEAABIAAIAhAgKAAABAgAIgAIIAMAABYBgAIBAAAQA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemCraftFormula" Collapsed="true">
+    <Position X="44.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAACAAAQAAAAQAAAAMAAAAABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\ItemCraftFormula.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemTier" Collapsed="true">
+    <Position X="49" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACACAAAAAAAAAAgAAABBCIAAAQAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\ItemTier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaterialItem" Collapsed="true">
+    <Position X="72.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAACBAAAgAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\MaterialItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectsActivatingByItemTiers" Collapsed="true">
+    <Position X="153.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\ObjectsActivatingByItemTiers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LootBox" Collapsed="true">
+    <Position X="53.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAQAgAAAAAAAAAAAAAAAAAAAAIBBAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\LootBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RandomStore" Collapsed="true">
+    <Position X="55.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAIAAAAAAAEgAAAACAIAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\RandomStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stamina" Collapsed="true">
+    <Position X="160.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQCAEAgAAAAAAAAAAAgAAAQIAAAAAAAIQAAAAEAAiA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Stamina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseCharacterBuff" Collapsed="true">
+    <Position X="155.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAADAAAAAAAAggAAAAACAAAUAACEhAAhAAAAAAQAAQA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GamePlay\BaseCharacterBuff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseCharacterEntity" Collapsed="true">
+    <Position X="157" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NAAAgBQAGAgAwAYiAAUQAIEEBIAQBACBIIBQCAgDQWA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GamePlay\BaseCharacterEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseCharacterSkill" Collapsed="true">
+    <Position X="158.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAAAAAAAAAAAABAAACAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GamePlay\BaseCharacterSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseDamage" Collapsed="true">
+    <Position X="160.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GamePlay\BaseDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseGamePlayFormation" Collapsed="true">
+    <Position X="164" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAEAAAFAIAAAAAAAAADACAiQAAAICEAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GamePlay\BaseGamePlayFormation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseGamePlayManager" Collapsed="true">
+    <Position X="165.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EhBCgI1TBhCEBIIBUCASYEJBZQQAgAkEwAKACBAlAEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GamePlay\BaseGamePlayManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseGameplayRule" Collapsed="true">
+    <Position X="144.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAgAAAEAAAABAAAAAAAAAQACAAACAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GamePlay\BaseGameplayRule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEffect" Collapsed="true">
+    <Position X="153.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAECAAQAAAAAgAAAAAAAABEAAAAAEAAAAAIEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GamePlay\GameEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TargetingRigidbody" Collapsed="true">
+    <Position X="162.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQQAAAAEgAAAEAAMAAAAAACAAAAAQEAAAAAAAIECAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GamePlay\TargetingRigidbody.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseGameService" Collapsed="true">
+    <Position X="45.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>v/3Iqd325tCscdA/Agm2reMpIgyhZqXsJS6VLP29WeM=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\BaseGameService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbPlayer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="148.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAATCRAAAEwAAAAEEAIAAEACCQBEAAgQAAAAAAAAEhE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Database\DbPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DbPlayerAchievement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="150" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACAAAIAAAACAAAAIAAAACAAAQAIAIAACAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Database\DbPlayerAchievement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DbPlayerAuth" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="151.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACAAAAAAAAQAAAAEAAAABAAASAQAIAgAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Database\DbPlayerAuth.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DbPlayerBattle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="153.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAIAACAAAAQAAAAEAAAIAAQACAAEQAAIIAAACAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Database\DbPlayerBattle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DbPlayerClearStage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="155.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAACAAAAAAAAAAAAAIAAAACAAAQAAAIAIAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Database\DbPlayerClearStage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DbPlayerCurrency" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="157" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACAAAAAACAAAAAgKAAAACgAAQAAAIAAAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Database\DbPlayerCurrency.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DbPlayerFormation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="158.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACACAAAAggAAAIAIAAAACAAAQAAAIAAAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Database\DbPlayerFormation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DbPlayerItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="160.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACAAAAAAAAAAAAAKgAAACqAAQAAgMAAAABgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Database\DbPlayerItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DbPlayerPair" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="162.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACAAAAAAAAAEAAAABAAAAAAAQAAAIAAAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Database\DbPlayerPair.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DbPlayerStamina" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="164" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACAAAAAAgAAAAAEKAAAADgAAwAQAIAEAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Database\DbPlayerStamina.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DbPlayerUnlockItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="165.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACAAAAAAAAAAAAAKAAAACgAAQAAAIAAAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Database\DbPlayerUnlockItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GameServiceErrorCode" Collapsed="true">
+    <Position X="157" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACIEQAiBCAECAAZKACAiisGAAQEoQBAIABgxAFEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameServiceResult">
+    <Position X="95" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceTimeResult">
+    <Position X="72.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerResult">
+    <Position X="82.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartStageResult">
+    <Position X="90.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemResult">
+    <Position X="82.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAEAAAAAAAAIAAAIAAABAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinishStageResult">
+    <Position X="83.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAABAAAAABAAAABACAAAAQEQAAAAAAGAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CurrencyResult">
+    <Position X="106.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AchievementListResult">
+    <Position X="113" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthListResult">
+    <Position X="117.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemListResult">
+    <Position X="122" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CurrencyListResult">
+    <Position X="126.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaminaListResult">
+    <Position X="131" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormationListResult">
+    <Position X="135.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnlockItemListResult">
+    <Position X="140" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClearStageListResult">
+    <Position X="47.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AvailableLootBoxListResult">
+    <Position X="52.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AvailableIapPackageListResult">
+    <Position X="54.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AvailableInGamePackageListResult">
+    <Position X="59" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AvailableStageListResult">
+    <Position X="63.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerListResult">
+    <Position X="68" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartDuelResult">
+    <Position X="74.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAADAAAAAAAAAEAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinishDuelResult">
+    <Position X="81.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAhAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaidEventListResult">
+    <Position X="92.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartRaidBossBattleResult">
+    <Position X="97.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinishRaidBossBattleResult">
+    <Position X="101.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RandomStoreResult">
+    <Position X="108.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PurchaseRandomStoreItemResult">
+    <Position X="86" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefreshRandomStoreResult">
+    <Position X="108.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClanEventListResult">
+    <Position X="124.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartClanBossBattleResult">
+    <Position X="128.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinishClanBossBattleResult">
+    <Position X="133.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MailListResult">
+    <Position X="137.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReadMailResult">
+    <Position X="142.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MailsCountResult">
+    <Position X="50" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EarnAchievementResult">
+    <Position X="79.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HardCurrencyConversionResult">
+    <Position X="56.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAABBAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClanResult">
+    <Position X="61.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClanListResult">
+    <Position X="65.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClanCheckinResult">
+    <Position X="70.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClanDonationResult">
+    <Position X="77" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreateClanResult">
+    <Position X="88.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClanCheckinStatusResult">
+    <Position X="95" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClanDonationStatusResult">
+    <Position X="99.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatMessageListResult">
+    <Position X="104" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefillStaminaResult">
+    <Position X="110.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefillStaminaInfoResult">
+    <Position X="115.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormationCharactersAndEquipmentsResult">
+    <Position X="119.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\GameServiceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiteDbGameService" Collapsed="true">
+    <Position X="43.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>u1mLKc0yhMAwYABlA5i2DSGgIgQgJoHsJQIVLK2sCeM=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Implement\LiteDb\LiteDbGameService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OfflineAchievementHelpers" Collapsed="true">
+    <Position X="155.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBAQBAAAAAAAAAEAAAwAIIAAQAAAAAAAAAAAAABGAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Implement\OfflineAchievementHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbRowsReader" Collapsed="true">
+    <Position X="144.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAC0AICAAAAAEBAIgAACEAAQQKBASQCAAIkA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Implement\SQLite\SQLiteGameService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SQLiteGameService" Collapsed="true">
+    <Position X="45.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>u3kpKM02hMAgYCBlA4i3DXGoKgUgNoHtJQIVLK2sC+M=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Implement\SQLite\SQLiteGameService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebServiceClient" Collapsed="true">
+    <Position X="47.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>u1kIKo06gMCgIABlAgi2DSEgKoQgJIHsJQIVLK2sCNM=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\Implement\WebServiceClient\WebServiceClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasePlayerData" Collapsed="true">
+    <Position X="55.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\BasePlayerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatMessage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="162.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACIRAACAAAAAQAAAAAAAAAAAAAgAAAAIAoIAAAIjE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\ChatMessage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Clan" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="164" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIACAAQAggAAAYQAAAAQAAAEFABABAAAAAAAAAlA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Clan.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClanEvent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="165.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAAAAAAAAAAgACIAIAAiABAAAABAAAAAQhI=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\ClanEvent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Mail" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="150" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAADIAAAQwAACEAAKAgAECAAABAAAAABAQAAAQEAAhA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Mail.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Player">
+    <Position X="41" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAATKRABCUwCAAAEWQIACEACCQFVAggBCIAAgAAAElE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerAchievement" Collapsed="true">
+    <Position X="46.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAABCQACIAQACCEAAAIAAAACAAAACIAIAAKAABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\PlayerAchievement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerAuth" Collapsed="true">
+    <Position X="48.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAABCQACAAQACQAAAAEAAAABAAACCYAIAgIAABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\PlayerAuth.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerBattle" Collapsed="true">
+    <Position X="50.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACIIABCQACAQAACAEAAAIAAQACAAEACIIIAAACAhA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\PlayerBattle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerClearStage" Collapsed="true">
+    <Position X="53" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABCIAABCQACAAQACAAAAAIAAAACAAAACIAIAIIAABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\PlayerClearStage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerCurrency" Collapsed="true">
+    <Position X="55.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAABCQACCAQCCAQAAgKAAAAKwAAACIAIAAIBABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\PlayerCurrency.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerFormation" Collapsed="true">
+    <Position X="57.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAABCQCCAAQgiAEAIAIAAAACAAAACIAIACIAABI=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\PlayerFormation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerItem" Collapsed="true">
+    <Position X="59.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>lAACIAEBCwAKAiwoSQAQAIKwBpMjqAABCIgMokAARlA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\PlayerItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerItemSort" Collapsed="true">
+    <Position X="146.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIAAAgEAAAAAAAAAAkACgAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\PlayerItemSort.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerPair" Collapsed="true">
+    <Position X="62" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAACAAAAAAAAAEAAAABAAAAAAAAAAAIAAIAABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\PlayerPair.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerStamina" Collapsed="true">
+    <Position X="64.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACJAABDQACAAxgCAAAAEKAEAADgAIgCYAIAEIAABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\PlayerStamina.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerUnlockItem">
+    <Position X="66.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCIAABCQACAAQACAAAAAKAAAACgAAACIAIAAIAABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\PlayerUnlockItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RaidEvent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="150" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAAAAAAAAAAgACIAIAAiABAAAABAAAAAQhA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\RaidEvent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RandomStoreEvent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="153.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAABAAAAAQAAAAAIAEAACABAAAAAAAAAAADA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\RandomStoreEvent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LoginSceneManager" Collapsed="true">
+    <Position X="148.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACQAAAAAAEAAAAAABAAAAQAABQAEACAAAAEACEFA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Scene\LoginSceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameText" Collapsed="true">
+    <Position X="158.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFdiYkCADGCICZAAglAeEACIoZPAQBggAhQAAQDFggo=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Text\Language.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefaultLocale" Collapsed="true">
+    <Position X="146.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Text\Language.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Language" Collapsed="true">
+    <Position X="164" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAgAAACAg=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Text\Language.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageManager" Collapsed="true">
+    <Position X="165.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EggCAAAACBAAABAoAAAFAAgAwAAABAAAAAIAAAABAkA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Text\LanguageManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIAchievement" Collapsed="true">
+    <Position X="165.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAEAAAAIAgAAEGAAAAAAAAQABAABAAAABAEAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Achievement\UIAchievement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIAchievementList" Collapsed="true">
+    <Position X="144.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Achievement\UIAchievementList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIAchievementManager" Collapsed="true">
+    <Position X="146.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAIAAQAAEAAAAAAAAAAEAAAAAAQAAAAABAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Achievement\UIAchievementManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUIArenaPreparation" Collapsed="true">
+    <Position X="150" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAACAAAAAACAEAAAACAAAAAQQBAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Arena\BaseUIArenaPreparation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIArenaOpponentList" Collapsed="true">
+    <Position X="50.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Arena\UIArenaOpponentList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIArenaRank" Collapsed="true">
+    <Position X="150" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEAAAAIAAAAAEAIAAAAAAQAAIAAAAAABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Arena\UIArenaRank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIArenaResult" Collapsed="true">
+    <Position X="151.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEABAEAAAAAAAAAAAAAAMAAABAAQAAABgAUA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Arena\UIArenaResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIChat" Collapsed="true">
+    <Position X="162.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEAAAAAAACAAAAAAAAAAAAAAAAAAAICBAAAE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Chat\UIChat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIChatList" Collapsed="true">
+    <Position X="164" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Chat\UIChatList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIChatManager" Collapsed="true">
+    <Position X="165.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEgAEAAAAAAIAAEAAAAgAACAEEABAACAAQICAAAQA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Chat\UIChatManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClan" Collapsed="true">
+    <Position X="63" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBCCgABEIAAACCAAAAAAAgAAAAAACA4AAAAAIhEBAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Clan\UIClan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanDonation" Collapsed="true">
+    <Position X="148.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEAQAABAAEAAQAAAAEBAAQEAAQACgAIBABAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Clan\UIClanDonation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanDonationList" Collapsed="true">
+    <Position X="150" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Clan\UIClanDonationList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanJoinPendingRequestList" Collapsed="true">
+    <Position X="53.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Clan\UIClanJoinPendingRequestList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanJoinRequestList" Collapsed="true">
+    <Position X="43.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEEIBAAAAAAAAAAAAEAgAAAAAAAAAAACAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Clan\UIClanJoinRequestList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanList" Collapsed="true">
+    <Position X="52.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Clan\UIClanList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanManager" Collapsed="true">
+    <Position X="63" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>lAQogAgAEAIiBDAicBAWIAQAIEooEIAAoAAQFCAECAg=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Clan\UIClanManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanMemberList" Collapsed="true">
+    <Position X="46" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEEIBAAAAAAAAAAAAEAgAAAAAAAAAAACAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Clan\UIClanMemberList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICreateClan" Collapsed="true">
+    <Position X="160.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAkAAAAAAACABAAAAAACIA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Clan\UICreateClan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIFindClanList" Collapsed="true">
+    <Position X="51" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAEAAAAAAACAAAAAAAACCA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Clan\UIFindClanList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanBossReward" Collapsed="true">
+    <Position X="144.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEEAAAQAAAAAAAAAAAAAAAAAIAAAAAABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\ClanBossStage\UIClanBossReward.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanBossRewardList" Collapsed="true">
+    <Position X="146.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\ClanBossStage\UIClanBossRewardList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanEvent" Collapsed="true">
+    <Position X="151.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEAAgEASAAIAAAAgEAAAAIAAAYAkIiAQAIABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\ClanBossStage\UIClanEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanEventList" Collapsed="true">
+    <Position X="153.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgQAgAAAAAAAAAAAAIAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\ClanBossStage\UIClanEventList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanEventPreparation" Collapsed="true">
+    <Position X="155.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAEAAAAAAAAACAAAAAgCCEAAAABAAAAABAAAE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\ClanBossStage\UIClanEventPreparation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIClanEventResult" Collapsed="true">
+    <Position X="157" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEABAAAAAAAAAAAAAAAAEAAgABAAAAABgAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\ClanBossStage\UIClanEventResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIUnlockItemList" Collapsed="true">
+    <Position X="155.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Codex\UIUnlockItemList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIUnlockItemManager" Collapsed="true">
+    <Position X="157" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAAAAAAABAAEgAAAAAAAAAEAAAAAAQAAIAABAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Codex\UIUnlockItemManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIFormation" Collapsed="true">
+    <Position X="164" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIEIAAACCAEAAgEQASGACGAghAAAABAAAASAAAAIA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\FormationManager\UIFormation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIFormationManager" Collapsed="true">
+    <Position X="144.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAACBAACAABAAAAEAIAAAAAAaAMABsAgRQAAEBAEAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\FormationManager\UIFormationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIFormationToggle" Collapsed="true">
+    <Position X="146.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAAAEAIAAAAAAAAAAAQAAQAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\FormationManager\UIFormationToggle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIAttributes" Collapsed="true">
+    <Position X="153.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AERoAACKEAENQCAh4AZQAIiAgAhQAABIAQIIAFLAABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Gameplay\UIAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIBossStats" Collapsed="true">
+    <Position X="157" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Gameplay\UIBossStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICharacterBuff" Collapsed="true">
+    <Position X="158.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAAAAAgAAAAAAAAAQAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Gameplay\UICharacterBuff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICharacterStatsGeneric" Collapsed="true">
+    <Position X="160.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIGAAAACAAAoAgAgAAQCAACIAAQAAAgIUAAQAAAEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Gameplay\UICharacterStatsGeneric.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICombatText" Collapsed="true">
+    <Position X="158.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIAAAACAQAAAAAAAAACAAAAAgAAACAAAAAAAAEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Gameplay\UICombatText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIFormationCharacters" Collapsed="true">
+    <Position X="165.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Gameplay\UIFormationCharacters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIGamePlayGeneric" Collapsed="true">
+    <Position X="151.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAACABAAAAAAQEAAAABEAAAAAACAAAAEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Gameplay\UIGamePlayGeneric.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UILevel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="160.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAQEBEAEAABCAEQAAAAEBAQABEQAAQBAgAEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Gameplay\UILevel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UILose" Collapsed="true">
+    <Position X="144.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBAAAAEgACAAAAAAAAAEAAAEBAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Gameplay\UILose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIPauseGame" Collapsed="true">
+    <Position X="151.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABAAAAEAACAAAAAAAAAEAAAEBAAgAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Gameplay\UIPauseGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIWin" Collapsed="true">
+    <Position X="158.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADEQBAAEAFAEAAgIAiAAAAEASAMBAAAQAAAAABggVA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Gameplay\UIWin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIGameDataWithAmount" Collapsed="true">
+    <Position X="148.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAEAAwAABAAAAAAACAAAAAQAAIAAAAAABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Generic\UIGameDataWithAmount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIGameDataWithAmountList" Collapsed="true">
+    <Position X="150" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Generic\UIGameDataWithAmountList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIEquipmentManager" Collapsed="true">
+    <Position X="162.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQQABAACCAKECAgEAAAEACAIACMAAMAABQAgABAAIA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIEquipmentManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIIapPackage" Collapsed="true">
+    <Position X="155.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAIEAAAAIAAAAIEAIACAAAAQAAIAAAAAABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIIapPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIIapPackageList" Collapsed="true">
+    <Position X="157" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIIapPackageList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIIapPackageManager" Collapsed="true">
+    <Position X="158.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAQQAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIIapPackageManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIInGamePackage" Collapsed="true">
+    <Position X="160.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEAAEAIAAAAIEAIAAAAAAQAAJAACAAABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIInGamePackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIInGamePackageList" Collapsed="true">
+    <Position X="162.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIInGamePackageList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIInGamePackageManager" Collapsed="true">
+    <Position X="164" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAQQAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIInGamePackageManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIInventoryManager" Collapsed="true">
+    <Position X="165.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAAAAAAAAAAEAAAAAAAAAAEAAEQAARAAAAABAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIInventoryManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemEvolve" Collapsed="true">
+    <Position X="60.5" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAABQgAAAAAAAAEgAAAKAAAAAEAQIAAARAAABAIAQ=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIItemEvolve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemLevelUp" Collapsed="true">
+    <Position X="62.75" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEFAgAAAAAIABAgEAAAAAAAQEAAgAAAQgAABAQAE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIItemLevelUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemList" Collapsed="true">
+    <Position X="155.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAYAAgACAAAAAAgCAAAAAgQAAAAABAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIItemList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemListFilter" Collapsed="true">
+    <Position X="157" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAgAQAQAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIItemListFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemSelection" Collapsed="true">
+    <Position X="60.5" Y="22" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAFAAAAgAIAAAGgAAAggAAAAEABAAACQCAAAAQAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIItemSelection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemSell" Collapsed="true">
+    <Position X="58.25" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAFAAAACAAAAAEgAAgAgAACAEYAEAAISAAAAAQAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIItemSell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemWithMaterials" Collapsed="true">
+    <Position X="61.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAEAAAAAAEAAAEAAIAAACAAAABAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIItemWithMaterials.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UILootBox" Collapsed="true">
+    <Position X="162.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEAAAAIAAAQYEAIAAAAAASAAIAAAAAABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UILootBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UILootBoxList" Collapsed="true">
+    <Position X="164" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UILootBoxList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UILootBoxManager" Collapsed="true">
+    <Position X="165.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQQAAAEAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UILootBoxManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemCraft" Collapsed="true">
+    <Position X="146.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABAAAEAEEKAAIhAAAQEAAAAAAAAgAAIAAAIABBAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\ItemCraft\UIItemCraft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemCraftList" Collapsed="true">
+    <Position X="148.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\ItemCraft\UIItemCraftList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemCraftManager" Collapsed="true">
+    <Position X="150" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAQAAEAAAAAAAAAAEEAAAAAQAAAAABAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\ItemCraft\UIItemCraftManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnClickChangeLanguage" Collapsed="true">
+    <Position X="157" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Language\OnClickChangeLanguage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnToggleChangeLanguage" Collapsed="true">
+    <Position X="158.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Language\OnToggleChangeLanguage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UILanguageText" Collapsed="true">
+    <Position X="158.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAABAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Language\UILanguageText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIMail" Collapsed="true">
+    <Position X="146.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBACBAAEEAAAIAAAQAJAAEKAAAAQABMAEAICABQEAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Mail\UIMail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIMailList" Collapsed="true">
+    <Position X="148.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAABAAAAAAAAAAEEAAAAAAAAAgAECAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Mail\UIMailList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIMailsCount" Collapsed="true">
+    <Position X="150" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAQAAAAgAAAAAAAAAAAACgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Mail\UIMailsCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIAllPlayerInfo" Collapsed="true">
+    <Position X="148.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAQAEAAAAABAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIAllPlayerInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIAuthentication" Collapsed="true">
+    <Position X="155.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEAAAAAAiAAAAAAQCKAAAAACQAAAAGAAAAIAABQAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIAuthentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICurrency" Collapsed="true">
+    <Position X="56" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEAAAAABAAAAAAAAAAAAAQAAIAAAAAABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UICurrency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemEvent" Collapsed="true">
+    <Position X="151.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItem" Collapsed="true">
+    <Position X="144.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgRACAQAUfMwAIBMCAAWBEBIMAAAXBRMgHA8QMJQKEM=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemFromGlobalData" Collapsed="true">
+    <Position X="153.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIItemFromGlobalData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIPlayer" Collapsed="true">
+    <Position X="153.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FShAiBJFNwJIUDgCMFoEgojABVgQAqQJ1VIwNABIgQM=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIPlayerCurrency" Collapsed="true">
+    <Position X="56" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIPlayerCurrency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIPlayerList" Collapsed="true">
+    <Position X="51.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIPlayerList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIPlayerStamina">
+    <Position X="38.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIPlayerStamina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIRefillStamina" Collapsed="true">
+    <Position X="146.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAQAAAAARAAABAFBAAAAACABAEAABQ=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIRefillStamina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIStamina">
+    <Position X="41" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAEAQAAABAAAAAAAAAEAAAQAAIAAABAAFAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIStamina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIUnlockItemEvent" Collapsed="true">
+    <Position X="153.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIUnlockItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIUnlockItem" Collapsed="true">
+    <Position X="151.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAACAEAABAAAQAAAAAAAAAAAAAABAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIUnlockItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIRaidBossReward" Collapsed="true">
+    <Position X="155.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEEAAAQAAAAAAAAAAAAAAAAAIAAAAAABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\RaidBossStage\UIRaidBossReward.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIRaidBossRewardList" Collapsed="true">
+    <Position X="157" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\RaidBossStage\UIRaidBossRewardList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIRaidEvent" Collapsed="true">
+    <Position X="158.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEAgAEACAAIAAAAgEAAAAQAAAQAEMiAQAIABAAQA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\RaidBossStage\UIRaidEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIRaidEventList" Collapsed="true">
+    <Position X="160.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAEAAAAAAAAAAAQAAAAAAAAAAAAAAAAAACQA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\RaidBossStage\UIRaidEventList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIRaidEventPreparation" Collapsed="true">
+    <Position X="162.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAREIAAAEAAAAAAAAACAAAAAgCCEAAAAAAAAAABAAAE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\RaidBossStage\UIRaidEventPreparation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIRaidEventResult" Collapsed="true">
+    <Position X="164" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAAEABAAAAAAAAAAAAAAAAEAAgAAAAAAABgAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\RaidBossStage\UIRaidEventResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIRandomStore" Collapsed="true">
+    <Position X="165.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwFAAAAQAAAAAAAAAAQEAAAAAgAAAFAEABAACAACCA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\RandomStore\UIRandomStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIRandomStoreItem" Collapsed="true">
+    <Position X="144.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAVAAACgEAAEAAAAAAEAAAAIAAAAgAAIAAAAAQBBAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\RandomStore\UIRandomStoreItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUISkill&lt;TSkill&gt;" Collapsed="true">
+    <Position X="151.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEAAAAIAAAAAEAAAAAAAAQAAIAAAAAABABAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Skill\BaseUISkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUISkillList&lt;TUI, TSkill&gt;" Collapsed="true">
+    <Position X="153.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Skill\BaseUISkillList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIFindFriendList" Collapsed="true">
+    <Position X="48.25" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Social\UIFindFriendList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIFriendList" Collapsed="true">
+    <Position X="52.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Social\UIFriendList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIFriendRequestList" Collapsed="true">
+    <Position X="55" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Social\UIFriendRequestList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIHelperList" Collapsed="true">
+    <Position X="57.25" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Social\UIHelperList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIPendingRequestList" Collapsed="true">
+    <Position X="59.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Social\UIPendingRequestList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUIStage&lt;TPreparation, TStage&gt;" Collapsed="true">
+    <Position X="155.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAGAAFCKAAMEAFogEAAEAAQCASAkISAAAAABAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Stage\BaseUIStage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUIStageList&lt;TPreparation, TUI, TStage&gt;" Collapsed="true">
+    <Position X="157" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAgAAAAAAAAAAAAAAAAAEAAAAAAAAAEBAQAI=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Stage\BaseUIStageList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUIStagePreparation&lt;TUI, TStage&gt;" Collapsed="true">
+    <Position X="158.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BARAQAAAEAAAAAAAAACABAAAgCCEAAAAAAAAAABAAAE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Stage\BaseUIStagePreparation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIStageGroup" Collapsed="true">
+    <Position X="148.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAABAAAAIAACAAAAAAAAAAAAEAAAAEAAAAAIA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Stage\UIStageGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIStageGroupManager" Collapsed="true">
+    <Position X="150" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Stage\UIStageGroupManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIGlobalData" Collapsed="true">
+    <Position X="153.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\UIGlobalData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Consts" Collapsed="true">
+    <Position X="144.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAlA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Utilities\Consts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvokeRepeatEvent" Collapsed="true">
+    <Position X="162.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAgAAAAgAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Utilities\InvokeRepeatEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemberReflectionUtils" Collapsed="true">
+    <Position X="151.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Utilities\MemberReflectionUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RandomNumberUtils" Collapsed="true">
+    <Position X="151.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Utilities\RandomNumberUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RotateByCursorSpeed" Collapsed="true">
+    <Position X="155.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAACAAgAAAAQEAAAAAAAAAEAAABAAAAAAAEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Utilities\RotateByCursorSpeed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetLocalEulerAngles" Collapsed="true">
+    <Position X="157" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Utilities\SetLocalEulerAngles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetLocalPosition" Collapsed="true">
+    <Position X="158.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Utilities\SetLocalPosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeUtils" Collapsed="true">
+    <Position X="164" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Utilities\TimeUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeightedRandomizer" Collapsed="true">
+    <Position X="160.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Utilities\WeightedRandomizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeightedRandomizer&lt;T&gt;" Collapsed="true">
+    <Position X="162.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAIAAAE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Utilities\WeightedRandomizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Int32Attribute" Collapsed="true">
+    <Position X="164" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAMAAIAAAAACAAACAAIAAAAAAAABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Attributes.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SingleAttribute" Collapsed="true">
+    <Position X="155.25" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAMAAIAAAAACAAACAAIAAAAAAAABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Attributes.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RandomAttributes" Collapsed="true">
+    <Position X="151.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAQgEgAAACgAIAABKFBgAAAIgAAAAAiMgAQBAASAAg=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Attributes.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Attributes" Collapsed="true">
+    <Position X="144.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAQQABAABEBAAAoAIAAAAgAAAAAAAAAEBAogBACBA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Attributes.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CalculatedAttributes" Collapsed="true">
+    <Position X="146.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACQQAFAABAAAAA4ANAAQCoAAAAAgAAAEBAogBACBg=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Attributes.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClanBossReward" Collapsed="true">
+    <Position X="148.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAABAAAAAAAAAAAAAAAAIAAAAAAIIAAIAAAIAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\BaseClanBossStage.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RaidBossReward" Collapsed="true">
+    <Position X="150" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAACgAAAAAAAAAAAIAAAAAAIIAAAAAAIAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\BaseRaidBossStage.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClanDonation" Collapsed="true">
+    <Position X="150" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAABAAAAAQAISAAAAAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\ClanDonation.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Currency" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="151.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAEAAAAAAAAAAAAAgAAgAIAAAAAAAIQAAAAEAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Currency.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="CurrencyAmount" Collapsed="true">
+    <Position X="153.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAAAAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\CurrencyAmount.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CurrencyRandomAmount" Collapsed="true">
+    <Position X="155.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAAAAIAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\CurrencyRandomAmount.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ElementalEffectiveness" Collapsed="true">
+    <Position X="157" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Elemental.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IdAmountPair" Collapsed="true">
+    <Position X="162.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\IdAmountPair.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="EquipItemModelPrefab" Collapsed="true">
+    <Position X="160.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\EquipmentItem.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ItemTierAndObjectsTuple" Collapsed="true">
+    <Position X="165.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAQAACAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\ItemTierAndObjectsTuple.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LootBoxReward" Collapsed="true">
+    <Position X="148.25" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAACAAAACAAEAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\LootBox.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LootBoxPack" Collapsed="true">
+    <Position X="146.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAABAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\LootBox.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RandomStoreItem" Collapsed="true">
+    <Position X="153.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAAAAAAAAACAAAACAAEAICAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\RandomStore.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StageAvailability" Collapsed="true">
+    <Position X="157" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAkAACAQAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\StageAvailability.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StaminaAmount" Collapsed="true">
+    <Position X="158.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAACAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\StaminaAmount.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="EquipItemModelContainer" Collapsed="true">
+    <Position X="158.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GamePlay\BaseCharacterEntity.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LanguageData" Collapsed="true">
+    <Position X="144.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Text\Language.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="UIItemListFilterSetting" Collapsed="true">
+    <Position X="162.25" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAYAAAAAgABAAAAAAAAAAAAAAAIAIAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\InventoryManagement\UIItemListFilter.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="UICurrencyPairing" Collapsed="true">
+    <Position X="160.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UICurrency.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="UIStaninaPairing" Collapsed="true">
+    <Position X="164" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\UI\Player\UIStamina.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="IGameData" Collapsed="true">
+    <Position X="150" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Interface\IGameData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ILevel" Collapsed="true">
+    <Position X="151.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAABAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Interface\ILevel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IChatMessage" Collapsed="true">
+    <Position X="144.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAQAAAAAAAAAAAAAAAAAAAAAAAAAAAIAoIAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IChatMessage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IClan" Collapsed="true">
+    <Position X="146.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IClan.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IClanEvent" Collapsed="true">
+    <Position X="148.25" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAIAIAAgAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IClanEvent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IMail" Collapsed="true">
+    <Position X="153.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAADAAAAAgAACEAAIAAAEAAAAAAAAAAAAAAAAQEAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IMail.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPlayer" Collapsed="true">
+    <Position X="155.25" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAATAQAAAAgAAAAEEAIAAAAAAABEAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPlayerAchievement" Collapsed="true">
+    <Position X="157" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAIAACAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IPlayerAchievement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPlayerAuth" Collapsed="true">
+    <Position X="158.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAQAAAAAAAAAAAAACAQAIAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IPlayerAuth.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPlayerBattle" Collapsed="true">
+    <Position X="160.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAAAAAAQAAAAAAAAIAAAAAAAEAAAIIAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IPlayerBattle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPlayerClearStage" Collapsed="true">
+    <Position X="162.25" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAIAIAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IPlayerClearStage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPlayerCurrency" Collapsed="true">
+    <Position X="164" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAgKAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IPlayerCurrency.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPlayerFormation" Collapsed="true">
+    <Position X="165.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAggAAAAAIAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IPlayerFormation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPlayerItem" Collapsed="true">
+    <Position X="144.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAKAAAAAKAAAAAAIAAAABAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IPlayerItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPlayerPair" Collapsed="true">
+    <Position X="146.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IPlayerPair.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPlayerStamina" Collapsed="true">
+    <Position X="148.25" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAEKAAAAAAAAgAQAIAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IPlayerStamina.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPlayerUnlockItem" Collapsed="true">
+    <Position X="150" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IPlayerUnlockItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IRaidEvent" Collapsed="true">
+    <Position X="151.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAIAIAAgAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IRaidEvent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IRandomStoreEvent" Collapsed="true">
+    <Position X="153.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\PlayerData\Interface\IRandomStoreEvent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AchievementType" Collapsed="true">
+    <Position X="144.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACCAEQCAAAAEACAAAABAAAAAAQABA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Achievement.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AnimationDataType" Collapsed="true">
+    <Position X="146.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Animation\AnimationData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AttributeType" Collapsed="true">
+    <Position X="148.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIAAAAAACAAQAAQAAAAAACAAAAYAACAAAAAAIAQOE=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Attributes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BuffType" Collapsed="true">
+    <Position X="150" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\BaseSkill.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CreateClanRequirementType" Collapsed="true">
+    <Position X="153.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\CreateClanRequirementType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="InGamePackageRequirementType" Collapsed="true">
+    <Position X="160.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\InGamePackage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CraftRequirementType" Collapsed="true">
+    <Position X="151.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Item\ItemCraftFormula.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LootBoxRequirementType" Collapsed="true">
+    <Position X="162.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\LootBox.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StageType" Collapsed="true">
+    <Position X="165.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\StageType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StaminaUnit" Collapsed="true">
+    <Position X="144.75" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAQAABAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameData\Stamina.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EBattleResult" Collapsed="true">
+    <Position X="155.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\EBattleResult.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EBattleType" Collapsed="true">
+    <Position X="157" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAgAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\EBattleType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EFormationType" Collapsed="true">
+    <Position X="158.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\GameService\EFormationType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Month" Collapsed="true">
+    <Position X="164" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAEgAAABRAAAAAAQAwgAAAAAAQAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\RPGGame\Core\Scripts\Month.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

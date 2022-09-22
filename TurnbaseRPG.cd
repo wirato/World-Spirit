@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EnvironmentManager" Collapsed="true">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQEIAAAkACAAAAAAAAAAQAAAQAAAAAAAAEAAAAAAEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\Environment\EnvironmentManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentObject" Collapsed="true">
+    <Position X="14.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAgAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\Environment\EnvironmentObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttackAnimationData">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Animation\AttackAnimationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttackAnimationDataExtension">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Animation\AttackAnimationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillCastAnimationData" Collapsed="true">
+    <Position X="16" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Animation\SkillCastAnimationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillCastAnimationDataExtension" Collapsed="true">
+    <Position X="17.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Animation\SkillCastAnimationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClanBossStage">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAgAACAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\ClanBossStage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvironmentData" Collapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\EnvironmentData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaidBossStage" Collapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAgAACAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\RaidBossStage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillBuff" Collapsed="true">
+    <Position X="14.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAgAQAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skill" Collapsed="true">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAADAAAAAAAIAAEAAAEAAAAAAAAAAAAACAQAAAAIAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage" Collapsed="true">
+    <Position X="9" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEEAAAABAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Stage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterBuff">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAABAAgAAAAQAEAAAAAAQgAAAAAAAAARAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GamePlay\CharacterBuff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterEntity">
+    <Position X="26.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YQUBFAggEDwgAREGQIAAEICopIEIggAhRAAACaUbgMY=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GamePlay\CharacterEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterSkill">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgABAAAAAAAAAAAwAAAAABAAACAAACAgAAAQAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GamePlay\CharacterSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Damage" Collapsed="true">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAACgABQJAAIIBARAAAAEAAAgAAAAEgAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GamePlay\Damage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePlayFormation">
+    <Position X="23" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAIAAASAAAAAAAIAYAAAAAAUAABQAAAAAA4CAgAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GamePlay\GamePlayFormation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePlayManager">
+    <Position X="19.75" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>RBQ0AACCACCAQAIAAITkICAiCAQkBIQABBQIAAQ4AEQ=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GamePlay\GamePlayManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerManagement" Collapsed="true">
+    <Position X="9" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\Player\PlayerManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIArenaPreparation" Collapsed="true">
+    <Position X="10.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Arena\UIArenaPreparation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICharacterAction">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAEAAJAgAAAAAAAAQAAAABAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Gameplay\UICharacterAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICharacterActionAttack">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Gameplay\UICharacterActionAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICharacterActionManager">
+    <Position X="21" Y="14.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAAAAAAAIgAAAAAQAAAAAEAgAAAAAAQCEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Gameplay\UICharacterActionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICharacterActionSkill">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBABAAAAAABAIAgAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Gameplay\UICharacterActionSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICharactersQueue">
+    <Position X="23.5" Y="10.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAgAAAAAgBAAIAAIABAAAEAAAEAAAAAAIAwAEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Gameplay\UICharactersQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICharacterStats" Collapsed="true">
+    <Position X="16" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Gameplay\UICharacterStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIGamePlay" Collapsed="true">
+    <Position X="17.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Gameplay\UIGamePlay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIItemSkillList" Collapsed="true">
+    <Position X="9" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAIAAACIAAAAAAAAAAAAAAAAAAAAAAAAACEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Skill\UIItemSkillList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UISkill" Collapsed="true">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Skill\UISkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UISkillList" Collapsed="true">
+    <Position X="12.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Skill\UISkillList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIStage" Collapsed="true">
+    <Position X="14.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Stage\UIStage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIStageList" Collapsed="true">
+    <Position X="16" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Stage\UIStageList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIStagePreparation" Collapsed="true">
+    <Position X="17.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\UI\Stage\UIStagePreparation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SkillAttackDamage" Collapsed="true">
+    <Position X="10.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAAAAAAAAAAEAABCAAAAAAAAAAAAAABEAABAgAAQ=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SkillAttack" Collapsed="true">
+    <Position X="9" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StageFoe" Collapsed="true">
+    <Position X="12.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAABAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Stage.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StageRandomFoe" Collapsed="true">
+    <Position X="14.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Stage.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StageWave" Collapsed="true">
+    <Position X="16" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Stage.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="ICharacterEntityActionOverrider" Collapsed="true">
+    <Position X="9" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GamePlay\ICharacterEntityActionOverrider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SkillUsageScope" Collapsed="true">
+    <Position X="12.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAACAAAABAAAAQAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AttackScope" Collapsed="true">
+    <Position X="9" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAgAAKAAIAAAAAAAAAAQAAAAQAAAIAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BuffScope" Collapsed="true">
+    <Position X="10.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAgAAAgAAKACJAAAAAAAAAAQBAIAQAAAYAgA=</HashCode>
+      <FileName>Assets\TurnBaseGame\Turnbase\Scripts\GameData\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

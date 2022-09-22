@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e36500cdce81d5944b2cd6cef0c4d17d, type: 3}
+  m_Name: SkillPigButcher01
+  m_EditorClassIdentifier: 
+  id: 
+  title: SkillPigButcher01
+  titles: []
+  description: "\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E04\u0E27\u0E21\u0E32\u0E40\u0E2A\u0E35\u0E22\u0E2B\u0E32\u0E22\u0E17\u0E32\u0E07\u0E01\u0E32\u0E22\u0E20\u0E32\u0E1E
+    100% \u0E43\u0E2B\u0E49\u0E41\u0E01\u0E48\u0E28\u0E31\u0E15\u0E23\u0E39 1 \u0E15\u0E31\u0E27
+    3 \u0E04\u0E23\u0E31\u0E49\u0E07 \n<color=#FF7C3A>(\u0E04\u0E39\u0E25\u0E14\u0E32\u0E27\u0E19\u0E4C
+    2 \u0E40\u0E17\u0E34\u0E23\u0E4C\u0E19)</color>"
+  descriptions: []
+  tag: 
+  category: 
+  icon: {fileID: 21300000, guid: 6d80699a984d1e34db8a413f8dd46012, type: 3}
+  icon2: {fileID: 0}
+  icon3: {fileID: 0}
+  isPassive: 0
+  castAnimation: {fileID: 0}
+  usageScope: 2
+  coolDownTurns: 2
+  coolDownIncreaseEachLevel: 0
+  attacks:
+  - attackScope: 0
+    attackAnimation: {fileID: 11400000, guid: f390489b102540a47a48f9bbdc00afb6, type: 2}
+    attackDamage:
+      fixDamage: 0
+      fixDamageIncreaseEachLevel: 0
+      pAtkDamageRate: 1
+      pAtkDamageRateIncreaseEachLevel: 0
+      mAtkDamageRate: 1
+      mAtkDamageRateIncreaseEachLevel: 0
+      hitCount: 1
+  - attackScope: 0
+    attackAnimation: {fileID: 11400000, guid: efb9533405b2f3f4eaef2d035a925c00, type: 2}
+    attackDamage:
+      fixDamage: 0
+      fixDamageIncreaseEachLevel: 0
+      pAtkDamageRate: 1
+      pAtkDamageRateIncreaseEachLevel: 0
+      mAtkDamageRate: 1
+      mAtkDamageRateIncreaseEachLevel: 0
+      hitCount: 1
+  - attackScope: 0
+    attackAnimation: {fileID: 11400000, guid: 560b492e7c592984091ddaf521e25a9f, type: 2}
+    attackDamage:
+      fixDamage: 0
+      fixDamageIncreaseEachLevel: 0
+      pAtkDamageRate: 1
+      pAtkDamageRateIncreaseEachLevel: 0
+      mAtkDamageRate: 1
+      mAtkDamageRateIncreaseEachLevel: 0
+      hitCount: 1
+  buffs: []
+  reviveCharacter: 0

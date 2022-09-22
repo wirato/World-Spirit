@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd4d453785d383b4c91014d5e9089fca, type: 3}
+  m_Name: MutantGuy-RaidBoss
+  m_EditorClassIdentifier: 
+  id: 
+  title: Black Knight
+  titles: []
+  description: 
+  descriptions: []
+  tag: 
+  category: 
+  icon: {fileID: 21300000, guid: fa88bb6bb00a4d94786662a61ed2b934, type: 3}
+  icon2: {fileID: 0}
+  icon3: {fileID: 0}
+  itemTier: {fileID: 11400000, guid: abd41d480549eb242b50fcdbb8ea7dab, type: 2}
+  maxStack: 1
+  useFixSellPrice: 0
+  fixSellPrice: 0
+  useFixRewardExp: 0
+  fixRewardExp: 0
+  useFixLevelUpPrice: 0
+  fixLevelUpPrice: 0
+  attributes:
+    hp:
+      minValue: 1000000
+      maxValue: 1000000
+      growth: 1.5
+    pAtk:
+      minValue: 2348
+      maxValue: 2348
+      growth: 1.5
+    pDef:
+      minValue: 359
+      maxValue: 359
+      growth: 1.5
+    mAtk:
+      minValue: 1408
+      maxValue: 1408
+      growth: 1.5
+    mDef:
+      minValue: 214
+      maxValue: 214
+      growth: 1.5
+    spd:
+      minValue: 25
+      maxValue: 25
+      growth: 1.5
+    eva:
+      minValue: 100
+      maxValue: 100
+      growth: 1.5
+    acc:
+      minValue: 500
+      maxValue: 500
+      growth: 1.5
+    critChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    critDamageRate:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    blockChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    blockDamageRate:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    resistanceChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    bloodStealRateByPAtk:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    bloodStealRateByMAtk:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+  randomAttributes:
+    minType: 0
+    maxType: 0
+    minHp: 0
+    maxHp: 0
+    minPAtk: 0
+    maxPAtk: 0
+    minPDef: 0
+    maxPDef: 0
+    minMAtk: 0
+    maxMAtk: 0
+    minMDef: 0
+    maxMDef: 0
+    minSpd: 0
+    maxSpd: 0
+    minEva: 0
+    maxEva: 0
+    minAcc: 0
+    maxAcc: 0
+    minCritChance: 0
+    maxCritChance: 0
+    minCritDamageRate: 0
+    maxCritDamageRate: 0
+    minBlockChance: 0
+    maxBlockChance: 0
+    minBlockDamageRate: 0
+    maxBlockDamageRate: 0
+    minResistanceChance: 0
+    maxResistanceChance: 0
+    minBloodStealRateByPAtk: 0
+    maxBloodStealRateByPAtk: 0
+    minBloodStealRateByMAtk: 0
+    maxBloodStealRateByMAtk: 0
+  hpRateToSetMax: 1
+  pAtkRateToSetMax: 1
+  pDefRateToSetMax: 1
+  mAtkRateToSetMax: 1
+  mDefRateToSetMax: 1
+  spdRateToSetMax: 1
+  evaRateToSetMax: 1
+  accRateToSetMax: 1
+  createEvolveItems: []
+  elemental: {fileID: 0}
+  attackAnimations:
+  - {fileID: 11400000, guid: cb4b16e64c3b9f444ae0349e99c2c881, type: 2}
+  skills:
+  - {fileID: 11400000, guid: e8696d824c448d0409e92d1478780b58, type: 2}
+  - {fileID: 11400000, guid: 613d7b4a61191524aadfaf6359bba9cd, type: 2}
+  model: {fileID: 9214900604025697716, guid: 35d5b9299e42b9c4a9fbaf83dc59b00f, type: 3}
+  evolveInfo:
+    requiredMaterials:
+    - item: {fileID: 11400000, guid: c1916a84a464be74994d87d72e84e74e, type: 2}
+      amount: 1
+    evolveItem: {fileID: 0}

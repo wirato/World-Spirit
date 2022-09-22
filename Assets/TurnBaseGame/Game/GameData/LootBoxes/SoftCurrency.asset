@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd53a47600a04b945a048102c061daa8, type: 3}
+  m_Name: SoftCurrency
+  m_EditorClassIdentifier: 
+  id: 
+  title: "\u0E2D\u0E31\u0E0D\u0E40\u0E0A\u0E34\u0E0D\u0E2D\u0E38\u0E1B\u0E01\u0E23\u0E13\u0E4C"
+  titles: []
+  description: Summon equipments
+  descriptions: []
+  tag: 
+  category: 
+  icon: {fileID: 21300000, guid: 5599eac860a899a4d80cf9693b42a650, type: 3}
+  icon2: {fileID: 0}
+  icon3: {fileID: 0}
+  highlight: {fileID: 0}
+  requirementType: 0
+  lootboxPacks:
+  - openAmount: 1
+    price: 1000
+  - openAmount: 10
+    price: 10000
+  lootboxRewards:
+  - rewardItem:
+      item: {fileID: 11400000, guid: 7493cc5eaf0724e49af3494974336ca4, type: 2}
+      amount: 1
+    randomWeight: 12
+  - rewardItem:
+      item: {fileID: 11400000, guid: 2b705141a4365a547bd0a3a467d442f3, type: 2}
+      amount: 1
+    randomWeight: 12
+  - rewardItem:
+      item: {fileID: 11400000, guid: aebf28198cb4311479269df3d6696cdd, type: 2}
+      amount: 1
+    randomWeight: 12
+  - rewardItem:
+      item: {fileID: 11400000, guid: 32e0c6a1636641244b8c12c636790b08, type: 2}
+      amount: 1
+    randomWeight: 12
+  - rewardItem:
+      item: {fileID: 11400000, guid: 1ef4659a1326f3d42b0c2b5194061c0e, type: 2}
+      amount: 1
+    randomWeight: 12
+  - rewardItem:
+      item: {fileID: 11400000, guid: c21146a239d4b5740b44229f8bee7ad0, type: 2}
+      amount: 1
+    randomWeight: 12
+  - rewardItem:
+      item: {fileID: 11400000, guid: d769ef747b3f3fe46bfbb0e9a5a600f3, type: 2}
+      amount: 1
+    randomWeight: 12
+  - rewardItem:
+      item: {fileID: 11400000, guid: 6387004b8cebba94e888014a8b2339fd, type: 2}
+      amount: 1
+    randomWeight: 12

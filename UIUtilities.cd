@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BaseUIExtension" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAEAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\BaseUIExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransformHelpers" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\TransformHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIAnimationExtension" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAAAAAEAAAEAAAAAAAAAAEAAAAAQAAAAABAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIAnimationExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIAnimatorExtension" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAgAAAAAAAEAAAEAAAAAAAAAAEAAAAAQAAAAAAAIA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIAnimatorExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIBase">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAAAAAIEAAAEABgAAAAFAAEAAAAAAAAAAACAFA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIDataItemEvent" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIDataItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIDataItem">
+    <Position X="8.75" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAQgIBEAEAAAAAAAEQAAAAAAAAAAAAAAAAAgAAQAI=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIDataItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIDraggable" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAQAAgAAAEDAEABBEAAAAAAAACgAAAAIAAAACEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIDraggable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UIFollowWorldObject" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAABAAACAAAAAAAAAAAAAAAAAQAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIFollowWorldObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIFollowWorldPosition" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAACAAAAAAIAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIFollowWorldPosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIHistoryManager">
+    <Position X="11" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAAABAAAAAAEAAAAAAAAAAAAAAgACAAAAAAQAAAEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIHistoryManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIInputDialog" Collapsed="true">
+    <Position X="13.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgMACAEEhkAAQAUEUAHBAAgAIAEEiBAAAAgIAGAABAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIInputDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIList" Collapsed="true">
+    <Position X="15.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CoAAAAIAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIList&lt;T&gt;" Collapsed="true">
+    <Position X="15.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBQQQAAAAAAACAAAAAAAAAEBAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIDataItemList&lt;TUIDataItem, TUIDataItemType&gt;" Collapsed="true">
+    <Position X="15.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAYARgAAgAASAQgAIAAAAgAAAEAAAAAAAAAAgAAIAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIMessageDialog" Collapsed="true">
+    <Position X="13.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAABAgAAQMAAEAAAAAAAAAAEAAAAAgABACACAEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIMessageDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="UIDataItemSelectionMode" Collapsed="true">
+    <Position X="17.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAIAAAAAAAABAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\UIUtilities\Scripts\UIDataItem.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

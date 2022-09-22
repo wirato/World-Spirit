@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FollowCamera">
+    <Position X="4" Y="5.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="FollowCamera.ZoomByAspectRatioSetting">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Camera\FollowCamera.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IBAF8BAFAAAAAAARJIAUIABEAAgMEAAAAIAAAAASCEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Camera\FollowCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FollowCameraControls">
+    <Position X="7.75" Y="5.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="FollowCameraControls.RaycastHitComparer">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Camera\FollowCameraControls.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAQEHBghCCEAAAIAAeV4KwxIQDgAgFA0AQBsBEgAAEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Camera\FollowCameraControls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResponsiveCamera" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAgAAAAIAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Camera\ResponsiveCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseMobileInputToggle">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="BaseMobileInputToggle.BoolEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\BaseMobileInputToggle.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IECLAAAAAiAIEAAAAAABAAAAAQAAAAAAAAQAAIAEAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\BaseMobileInputToggle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InputManager" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIACAAAAABCAAyAAAAAAAQAIAAAAAAgAAIAAAAACSAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputSettingManager" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAgAAAAAAAAEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\InputSettingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileInputButton" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IECDAAAAAiAIAAAACAAAAAAAQAAAgAAIAADAAABAggA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\MobileInputButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MobileInputConfig" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAkAKEArAkKSAAgQBDAGohAgYCIIyQQAAADFiBlCAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\MobileInputConfig.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MobileInputConfigManager" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAIAAAAACEgACAAAAAAAAYQACAAAAICBA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\MobileInputConfigManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileInputToggle">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\MobileInputToggle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileInputToggleAxis">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAAAAAAAAgAAAQAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\MobileInputToggleAxis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileMovementJoystick" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JCCDAQQgYyAMAACACABCqoAQQgQIFnAoBhAAEoICgAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\MobileMovementJoystick.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MobilePinchArea" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAMEEAAIAAAIAAAAARAAAAAAACCIAAAAABAAAGA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\MobilePinchArea.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MobileSwipeAndPinchArea" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\MobileSwipeAndPinchArea.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MobileSwipeArea" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IASAAAAAMSAMAAAIAABAAgAAAgQAADCIAAAAABAAAEA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\MobileSwipeArea.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="IAimAssistAvoidanceListener" Collapsed="true">
+    <Position X="12.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Camera\IAimAssistAvoidanceListener.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IMobileInputArea" Collapsed="true">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TurnBaseGame\CameraAndInput\Scripts\Input\IMobileInputArea.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

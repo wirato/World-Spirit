@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd4d453785d383b4c91014d5e9089fca, type: 3}
+  m_Name: ForestWitch 4
+  m_EditorClassIdentifier: 
+  id: 
+  title: ForestWitch
+  titles: []
+  description: 
+  descriptions: []
+  tag: 
+  category: 
+  icon: {fileID: 21300000, guid: 591a833f0dadc3349a78e057a0c83dd1, type: 3}
+  icon2: {fileID: 0}
+  icon3: {fileID: 0}
+  itemTier: {fileID: 11400000, guid: 60bad8b6cf534554ab9d858b63f9a7ea, type: 2}
+  maxStack: 1
+  useFixSellPrice: 0
+  fixSellPrice: 0
+  useFixRewardExp: 0
+  fixRewardExp: 0
+  useFixLevelUpPrice: 0
+  fixLevelUpPrice: 0
+  attributes:
+    hp:
+      minValue: 1633
+      maxValue: 41126
+      growth: 1.5
+    pAtk:
+      minValue: 153
+      maxValue: 4189
+      growth: 1.5
+    pDef:
+      minValue: 85
+      maxValue: 701
+      growth: 1.5
+    mAtk:
+      minValue: 256
+      maxValue: 6984
+      growth: 1.5
+    mDef:
+      minValue: 143
+      maxValue: 1169
+      growth: 1.5
+    spd:
+      minValue: 30
+      maxValue: 30
+      growth: 1.5
+    eva:
+      minValue: 244
+      maxValue: 6168
+      growth: 1.5
+    acc:
+      minValue: 228
+      maxValue: 5757
+      growth: 1.5
+    critChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    critDamageRate:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    blockChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    blockDamageRate:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    resistanceChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    bloodStealRateByPAtk:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    bloodStealRateByMAtk:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+  randomAttributes:
+    minType: 0
+    maxType: 0
+    minHp: 0
+    maxHp: 0
+    minPAtk: 0
+    maxPAtk: 0
+    minPDef: 0
+    maxPDef: 0
+    minMAtk: 0
+    maxMAtk: 0
+    minMDef: 0
+    maxMDef: 0
+    minSpd: 0
+    maxSpd: 0
+    minEva: 0
+    maxEva: 0
+    minAcc: 0
+    maxAcc: 0
+    minCritChance: 0
+    maxCritChance: 0
+    minCritDamageRate: 0
+    maxCritDamageRate: 0
+    minBlockChance: 0
+    maxBlockChance: 0
+    minBlockDamageRate: 0
+    maxBlockDamageRate: 0
+    minResistanceChance: 0
+    maxResistanceChance: 0
+    minBloodStealRateByPAtk: 0
+    maxBloodStealRateByPAtk: 0
+    minBloodStealRateByMAtk: 0
+    maxBloodStealRateByMAtk: 0
+  hpRateToSetMax: 1
+  pAtkRateToSetMax: 1
+  pDefRateToSetMax: 1
+  mAtkRateToSetMax: 1
+  mDefRateToSetMax: 1
+  spdRateToSetMax: 1
+  evaRateToSetMax: 1
+  accRateToSetMax: 1
+  createEvolveItems: []
+  elemental: {fileID: 0}
+  attackAnimations:
+  - {fileID: 11400000, guid: 1b008254334c65a43967941711630b02, type: 2}
+  skills:
+  - {fileID: 11400000, guid: b56fab1a5eaeeba408b3d4dd16c23958, type: 2}
+  - {fileID: 11400000, guid: 821fa352f7e7fc6488ee9808c1cd3b65, type: 2}
+  model: {fileID: 2189118855988638894, guid: 3d8574f17690ac3468efb32377555c01, type: 3}
+  evolveInfo:
+    requiredMaterials:
+    - item: {fileID: 11400000, guid: cc7f0fe3dfbbace41b1005b6b6ba07f3, type: 2}
+      amount: 1
+    evolveItem: {fileID: 11400000, guid: b52b418f05828534fb41bc44dc89bfc6, type: 2}

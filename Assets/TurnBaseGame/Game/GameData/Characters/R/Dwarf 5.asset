@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd4d453785d383b4c91014d5e9089fca, type: 3}
+  m_Name: Dwarf 5
+  m_EditorClassIdentifier: 
+  id: 
+  title: Dwarf
+  titles: []
+  description: 
+  descriptions: []
+  tag: 
+  category: 
+  icon: {fileID: 21300000, guid: 6560a18e02f8d96499264b760d43c859, type: 3}
+  icon2: {fileID: 0}
+  icon3: {fileID: 0}
+  itemTier: {fileID: 11400000, guid: abd41d480549eb242b50fcdbb8ea7dab, type: 2}
+  maxStack: 1
+  useFixSellPrice: 0
+  fixSellPrice: 0
+  useFixRewardExp: 0
+  fixRewardExp: 0
+  useFixLevelUpPrice: 0
+  fixLevelUpPrice: 0
+  attributes:
+    hp:
+      minValue: 1520
+      maxValue: 49592
+      growth: 1.5
+    pAtk:
+      minValue: 293
+      maxValue: 9972
+      growth: 1.5
+    pDef:
+      minValue: 221
+      maxValue: 2211
+      growth: 1.5
+    mAtk:
+      minValue: 175
+      maxValue: 5983
+      growth: 1.5
+    mDef:
+      minValue: 132
+      maxValue: 1326
+      growth: 1.5
+    spd:
+      minValue: 29
+      maxValue: 29
+      growth: 1.5
+    eva:
+      minValue: 227
+      maxValue: 7438
+      growth: 1.5
+    acc:
+      minValue: 212
+      maxValue: 6942
+      growth: 1.5
+    critChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    critDamageRate:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    blockChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    blockDamageRate:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    resistanceChance:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    bloodStealRateByPAtk:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+    bloodStealRateByMAtk:
+      minValue: 0
+      maxValue: 0
+      growth: 0
+  randomAttributes:
+    minType: 0
+    maxType: 0
+    minHp: 0
+    maxHp: 0
+    minPAtk: 0
+    maxPAtk: 0
+    minPDef: 0
+    maxPDef: 0
+    minMAtk: 0
+    maxMAtk: 0
+    minMDef: 0
+    maxMDef: 0
+    minSpd: 0
+    maxSpd: 0
+    minEva: 0
+    maxEva: 0
+    minAcc: 0
+    maxAcc: 0
+    minCritChance: 0
+    maxCritChance: 0
+    minCritDamageRate: 0
+    maxCritDamageRate: 0
+    minBlockChance: 0
+    maxBlockChance: 0
+    minBlockDamageRate: 0
+    maxBlockDamageRate: 0
+    minResistanceChance: 0
+    maxResistanceChance: 0
+    minBloodStealRateByPAtk: 0
+    maxBloodStealRateByPAtk: 0
+    minBloodStealRateByMAtk: 0
+    maxBloodStealRateByMAtk: 0
+  hpRateToSetMax: 1
+  pAtkRateToSetMax: 1
+  pDefRateToSetMax: 1
+  mAtkRateToSetMax: 1
+  mDefRateToSetMax: 1
+  spdRateToSetMax: 1
+  evaRateToSetMax: 1
+  accRateToSetMax: 1
+  createEvolveItems: []
+  elemental: {fileID: 0}
+  attackAnimations:
+  - {fileID: 11400000, guid: f390489b102540a47a48f9bbdc00afb6, type: 2}
+  skills:
+  - {fileID: 11400000, guid: f7b3cefa4e2102c44b42bd7de5d3558e, type: 2}
+  - {fileID: 11400000, guid: 046965e59eda7aa478399add1d14a294, type: 2}
+  model: {fileID: 4402516919615028052, guid: 0309e26f4ca3073488eb340de0bd7492, type: 3}
+  evolveInfo:
+    requiredMaterials:
+    - item: {fileID: 11400000, guid: 57f3ee678d328c647866224fe0daab9d, type: 2}
+      amount: 1
+    evolveItem: {fileID: 0}
